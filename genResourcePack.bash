@@ -31,5 +31,4 @@ function assemble(){
 #parameter 2: prefix shared by the raw view for all files from the repository and branch
 #parameter 3: description to use for your resource pack
 
-# assemble "$1" "$2" "$3"
-assemble "newTinkerTextures" "https://raw.githubusercontent.com/SlimeKnights/TinkersConstruct/4722395cefb0c793d23692578ff823bc6ab458a0/" "A bunch of new textures for Tinker's construct, kindly provided by RCXcrafter(https://github.com/RCXcrafter), and constructed according to instructions provided by StaticPH." #<--that's me :)
+assemble "$1" "$2" "$3"
